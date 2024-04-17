@@ -1,2 +1,2 @@
-﻿# quick static website that I made and hosted as a joke for a buddy
+﻿# quick static website that I hosted as a joke
  url: https://www.case-battle.site/
