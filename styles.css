@@ -1,0 +1,12 @@
+#dlore{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 60%;
+}
+
+body{
+    background-image: url(bg-main.png);
+    background-color: blue;
+}
