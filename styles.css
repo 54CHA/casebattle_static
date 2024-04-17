@@ -2,10 +2,25 @@
     color: skyblue;
     border-style: 5px solid;
     text-align: center;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
 }
 
 .text2{
+    position: absolute;
+    top: 80%;
     text-align: center;
+    border-top-style:dotted;
+    border-bottom: dotted;
+    margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
 }
 
 a:link{
@@ -19,11 +34,20 @@ a:hover{
 position: absolute;
 left: 35%;
 width:27%;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
 }
 
 #dlore{
     position: absolute;
     left: 35%;
+    top: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
     width:30%;
 }
 
